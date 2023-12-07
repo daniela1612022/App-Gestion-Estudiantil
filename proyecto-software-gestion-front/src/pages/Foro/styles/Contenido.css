@@ -1,0 +1,180 @@
+.contendio-foro {
+    background-color: #ebefff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.contendio-foro .overlap-wrapper {
+    background-color: #ebefff;
+    height: 720px;
+    overflow: hidden;
+    width: 1280px;
+}
+
+.contendio-foro .overlap {
+    height: 1019px;
+    left: -287px;
+    position: relative;
+    width: 1567px;
+}
+
+.contendio-foro .overlap-group {
+    height: 720px;
+    left: 241px;
+    position: absolute;
+    top: 0;
+    width: 1326px;
+}
+
+.contendio-foro .fondo-lateral {
+    background-color: #480069;
+    height: 720px;
+    left: 888px;
+    position: absolute;
+    top: 0;
+    width: 438px;
+}
+
+.contendio-foro .foro-participacion {
+    background-color: #ffffff;
+    border-radius: 50px;
+    height: 499px;
+    left: 128px;
+    position: absolute;
+    top: 106px;
+    width: 1147px;
+}
+
+.contendio-foro .boton-archivo {
+    height: 45px;
+    left: 465px;
+    position: absolute;
+    top: 407px;
+    width: 297px;
+}
+
+.contendio-foro .registrate-wrapper {
+    background-color: #8165d3;
+    border-radius: 50px;
+    height: 45px;
+    position: relative;
+    width: 295px;
+}
+
+.contendio-foro .registrate {
+    color: #ffffff;
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 107px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 9px;
+    width: 233px;
+}
+
+.contendio-foro .overlap-group-wrapper {
+    height: 45px;
+    left: 784px;
+    position: absolute;
+    top: 407px;
+    width: 297px;
+}
+
+.contendio-foro .div {
+    height: 45px;
+    left: 146px;
+    position: absolute;
+    top: 407px;
+    width: 297px;
+}
+
+.contendio-foro .text-wrapper {
+    color: #480069;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 32px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 61px;
+    width: 548px;
+}
+
+.contendio-foro .overlap-2 {
+    height: 499px;
+    left: 0;
+    position: absolute;
+    top: 520px;
+    width: 543px;
+}
+
+.contendio-foro .rectangle-esquina {
+    background-color: #480069;
+    border-radius: 105.53px;
+    height: 141px;
+    left: -27px;
+    position: absolute;
+    top: 179px;
+    transform: rotate(-41.1deg);
+    width: 597px;
+}
+
+.contendio-foro .rectangle-esquina-2 {
+    background-color: #7912a9;
+    border-radius: 105.53px;
+    height: 131px;
+    left: 10px;
+    position: absolute;
+    top: 177px;
+    transform: rotate(-41.1deg);
+    width: 554px;
+}
+
+button {
+    margin: 2px;
+  }
+
+  .btn-custom {
+    width: 300px;
+    height: 40px;
+    color: #fff;
+    border-radius: 20px;
+    padding: 10px 25px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    background: transparent;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+     box-shadow:inset 2px 2px 2px 0px rgb(255, 255, 255),
+     7px 7px 20px 0px rgba(0,0,0,.1),
+     4px 4px 5px 0px rgba(0,0,0,.1);
+    outline: none;
+  }
+
+.btn {
+    background: rgb(96,9,240);
+    background: linear-gradient(0deg, rgba(96,9,240,1) 0%, rgba(129,5,240,1) 100%);
+    border: none;
+    
+  }
+  .btn:before {
+    height: 0%;
+    width: 2px;
+  }
+  .btn:hover {
+    box-shadow:  4px 4px 6px 0 rgba(255,255,255,.5),
+                -4px -4px 6px 0 rgba(116, 125, 136, .5), 
+      inset -4px -4px 6px 0 rgba(255,255,255,.2),
+      inset 4px 4px 6px 0 rgba(0, 0, 0, .4);
+  }
+  
+  
+

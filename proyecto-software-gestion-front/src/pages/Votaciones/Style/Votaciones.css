@@ -1,0 +1,40 @@
+.button {
+    position: relative;
+    border-radius: 20px;
+    border: 1px solid rgb(75, 0, 130);
+    background-color: #3f0069;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 700;
+    margin: 10px;
+    padding: 12px 80px;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    transition: 0.3s ease-in-out;
+  }
+  
+  .button:hover {
+    letter-spacing: 3px;
+  }
+  
+  .button:active {
+    transform: scale(0.95);
+  }
+  
+  .button:focus {
+    outline: none;
+  }
+  .votaciones-container .button {
+    position: relative;
+    border-radius: 20px;
+    border: 1px solid rgb(75, 0, 130);
+    background-color: #3f0069;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 700;
+    margin: 10px;
+    padding: 12px 80px;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    transition: 0.3s ease-in-out;
+  }  
